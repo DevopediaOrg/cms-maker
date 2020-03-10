@@ -1,0 +1,4 @@
+beautifulsoup4==4.8.2
+feedparser==5.2.1
+iso8601==0.1.12
+scrapy==2.0.0
