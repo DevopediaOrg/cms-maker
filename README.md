@@ -33,3 +33,5 @@ The tool reads a list of URLs from file of default name `urls.json`. This file s
 CMS comes in two formats. We have adopted the [Author-Date format](http://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html).
 
 At Devopedia, we might have customized the format a little bit to suit our purposes. Examples of how we use CMS are on the [Author Guidelines](https://devopedia.org/site-map/author-guidelines?good-bad-examples) page of Devopedia main site. Go to the *References* sub-section of *Good & Bad Examples* section.
+
+![Reference Example](https://devopedia.org/images/misc/ReferenceExample.svg)
