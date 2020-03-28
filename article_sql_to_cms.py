@@ -106,27 +106,31 @@ def parse_ref(ref_text):
     return ref
 
 
-# Get Articles
-# # Get Reference section of Articles
-# refs_content = get_references_content(record[0][0], record[0][1])
 #
-# # Extract text for each reference
-# ref_texts = extract_reference_texts(refs_content)
+# # Get Articles
+# # # Get Reference section of Articles
+# # refs_content = get_references_content(record[0][0], record[0][1])
+# #
+# # # Extract text for each reference
+# # ref_texts = extract_reference_texts(refs_content)
+# #
+# # # Convert Ref to CMS object
+# # local_print(parse_ref(ref_texts[0]))
+# record = get_article_contents()
+# local_print("articles:", len(record))
+# references = {}
+# for article in record:
+#     refs_content = get_references_content(article[0], article[1])
+#     ref_texts = extract_reference_texts(refs_content)
+#     refs = [parse_ref(ref) for ref in ref_texts]
+#     references[article[0]] = refs
 #
-# # Convert Ref to CMS object
-# local_print(parse_ref(ref_texts[0]))
-record = get_article_contents()
-local_print("articles:", len(record))
-references = {}
-for article in record:
-    refs_content = get_references_content(article[0], article[1])
-    ref_texts = extract_reference_texts(refs_content)
-    refs = [parse_ref(ref) for ref in ref_texts]
-    references[article[0]] = refs
+# print(len(references))
+# with open("resources/references.pkl", "wb") as dump_file:
+#     pickle.dump(references, dump_file)
 
-print(len(references))
-with open("resources/references.pkl", "wb") as dump_file:
-    pickle.dump(references, dump_file)
+with open("resources/references.pkl", "rb") as dump_file:
+    references = pickle.load(dump_file)
 
-# with open("resources/references.json", "w") as dump_file:
-#     json.dump(references, CMS.MyEncoder)
+with open("resources/references.json", "w") as dump_file:
+    json.dump(references, dump_file,cls=CMS.MyEncoder)
