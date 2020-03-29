@@ -129,8 +129,8 @@ def parse_ref(ref_text):
 # with open("resources/references.pkl", "wb") as dump_file:
 #     pickle.dump(references, dump_file)
 
-with open("resources/references.pkl", "rb") as dump_file:
+with open("../resources/references.pkl", "rb") as dump_file:
     references = pickle.load(dump_file)
 
-with open("resources/references.json", "w") as dump_file:
+with open("../resources/references.json", "w") as dump_file:
     json.dump(references, dump_file,cls=CMS.MyEncoder)

@@ -9,7 +9,7 @@ import time
 import datetime
 from urllib.parse import urlparse, urlunparse, urlsplit
 import sys
-
+import CMS
 
 class HtmlScraper(object):    
 
@@ -197,9 +197,16 @@ class HtmlScraper(object):
         except:
             monthdate = year = None
         today = datetime.datetime.strftime(datetime.datetime.now(), '%Y-%m-%d')
+        cms_obj = CMS.AuthorDateFormat()
+        cms_obj.title = article['Title']
+        cms_obj.year_of_publication = year
+        cms_obj.date_of_publication = monthdate
+        cms_obj.access_date = today
+        cms_obj.publisher_name = article['AuthorSite']
+
         cms = '* [{}. {}. "{}" Site, {}. Accessed {}.]({})'.format(
                 article['AuthorSite'], year, article['Title'], monthdate, today, article['Url'])
-        return cms
+        return (cms, cms_obj)
 
 
     #--------------------------------------------------------------------
@@ -209,7 +216,8 @@ class HtmlScraper(object):
         item = self.__scrape_article(article, withText)
         item['Url'] = article['link']
         if item:
-            item['CMS'] = self.make_cms(item)
+            item['CMS'], item['CMS-ADF'] = self.make_cms(item)
+
             self.news_items.append(item)
             if toPrint:
                 self.print_article('item', item, withText)

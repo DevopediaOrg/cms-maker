@@ -1,5 +1,5 @@
 from json import JSONEncoder
-
+import json
 
 class AuthorDateFormat:
     PRINT_TEMPLATE = """
@@ -32,6 +32,8 @@ class AuthorDateFormat:
             url=self.url
         ))
 
+    def encode(self, formatString):
+        return json.dumps(self.__dict__).encode(formatString)
 
 from json import JSONEncoder
 
