@@ -14,7 +14,7 @@ import logging
 from mysql.connector import Error
 import pickle
 
-PRINT = False
+logging.basicConfig(level=logging.INFO)
 
 
 class ArticleReader:
@@ -42,25 +42,12 @@ class ReferenceExtractor:
 
     REFERENCE_REGEX = "\[.*?\]\(.*?\)\r\n"
 
-    CMS_AUTHOR_YEAR_TITLE_REGEX = "\[\
-    (?P<authors>.*?)\.\
-    \W* \
-    (?P<year>[0-9]{4}\[a-z]?)\.\
-    \W*\
-    (?P<title>\".*\")\.?.*"
+    CMS_AUTHOR_YEAR_TITLE_REGEX = "\[(?P<authors>.*?)\.\W*(?P<year>[0-9]{4}[a-z]?)\.\W*(?P<title>\".*\")\.?.*"
 
     # Date can be internal like May17-25, or  Febraury 19, 2017
-    CMS_DATE_PUB_UPDATED_ACCESSED_URL_REGEX = ",?\
-    (?P<date>[A-Za-z]+\W([0-2][0-9]|[3][01]))?(\.\W*)?\
-    (\,\W*)?\
-    (?P<date_updated>((Updated|Modified)?\W[a-zA-Z]+\W+([[0-9]{2}(-[0-9]{2})?|[0-9]{4}-[0-9]{2}-[0-9]{2}))?)(\.\W*)?\
-    (?P<access_date>(Accessed|Retrieved)\W*[0-9]{4}-[0-9]{2}-[0-9]{2})(\.\W*)?\
-    \]\
-    .*?\((?P<url>.*?)\)"
+    CMS_DATE_PUB_UPDATED_ACCESSED_URL_REGEX = ",?(?P<date>[A-Za-z]+\W([0-2][0-9]|[3][01]))?(\.\W*)?(\,\W*)?(?P<date_updated>(Updated?\W[a-zA-Z]+\W+([0-9]{1,2}|([0-2]?[0-9]|[3]?[01])-([0-2]?[0-9]|[3]?[01]))|[0-9]{4}-[0-9]{2}-[0-9]{2})?)(\.\W*)?(?P<access_date>(Accessed|Retrieved)\W*[0-9]{4}-[0-9]{2}-[0-9]{2})(\.\W*)?\]\.*?\((?P<url>.*?)\)"
 
-    CMS_REGEX = ".*?\
-    (?P<details>.*?)?(\.)?\W*?\
-    (?P<publisher>.*?)\,.*?"
+    CMS_REGEX = ".*?(?P<details>.*?)?(\.)?\W*?(?P<publisher>.*?)\,.*?"
 
     def __init__(self, articles):
         super()
@@ -98,6 +85,12 @@ class ReferenceExtractor:
                 ref_text = ref_text[:match3.start('date_updated')]
             ref.date_updated = match3.group('date_updated')
             ref.access_date = match3.group('access_date')
+            if not ref.year_of_publication:
+                # TODO Abhishek-P extract year from access_date
+                pass
+            if not ref.date_of_publication:
+                # TODO Abhishek-P extract date from access_date
+                pass
             ref.url = match3.group('url')
         match = re.search(self.CMS_REGEX, ref_text)
         if match:
@@ -105,41 +98,28 @@ class ReferenceExtractor:
                 ref.details = match.group('details')
             if match.group('publisher'):
                 ref.publisher_name = match.group('publisher')
+                if not ref.author_name:
+                    ref.author_name = ref.publisher_name
         if not match1 and not match3 and match:
             return None
         return ref
 
     def extract_references(self):
+        logging.debug("Extracting references from {} articles".format(len(self.articles)))
         for article in self.articles:
             refs_content = self.get_references_content(article[0], article[1])
             ref_texts = self.extract_reference_texts(refs_content)
+            logging.debug(ref_texts)
             refs = [self.parse_ref(ref) for ref in ref_texts]
             self.references[article[0]] = refs
+            logging.debug("extracted {} refs {} for article".format(len(refs), refs, article[0]))
 
-
-# TODO abhip make details, publisher, date distinct
-# TODO abhip authors is optional
-
-
-
-# Get Articles
-# # Get Reference section of Articles
-# refs_content = get_references_content(record[0][0], record[0][1])
-#
-# # Extract text for each reference
-# ref_texts = extract_reference_texts(refs_content)
-#
-# # Convert Ref to CMS object
-# local_print(parse_ref(ref_texts[0]))
 articles = ArticleReader().get_article_contents()
 refExtractor = ReferenceExtractor(articles)
 references = refExtractor.references
-print(len(references))
+logging.info("Total Articles: {}".format(len(references)))
 with open("../resources/references.pkl", "wb") as dump_file:
     pickle.dump(references, dump_file)
-
-with open("../resources/references.pkl", "rb") as dump_file:
-    references = pickle.load(dump_file)
 
 with open("../resources/references.json", "w") as dump_file:
     json.dump(references, dump_file, cls=Format.MyEncoder)

@@ -15,8 +15,8 @@ for article_title in references:
     print("Cleaned", len(references[article_title]))
     print("\n")
 
-with open("../resources/references.pkl", "w") as dump_file:
-    pickle.dump(dump_file, references)
+with open("../resources/references.pkl", "wb") as dump_file:
+    pickle.dump(references, dump_file)
 
 with open("../resources/references.json", "w") as dump_file:
     json.dump(references, dump_file, cls=Format.MyEncoder)

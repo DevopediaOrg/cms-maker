@@ -9,7 +9,7 @@ import time
 import datetime
 from urllib.parse import urlparse, urlunparse, urlsplit
 import sys
-import CMS
+from CMS import Format
 
 class HtmlScraper(object):    
 
@@ -196,16 +196,25 @@ class HtmlScraper(object):
             monthdate, year = [x.strip() for x in article['SrcDate'].split(',')]
         except:
             monthdate = year = None
-        today = datetime.datetime.strftime(datetime.datetime.now(), '%Y-%m-%d')
-        cms_obj = CMS.AuthorDateFormat()
+        today_datetime = datetime.datetime.now()
+        today_datetime_str = datetime.datetime.strftime(today_datetime, '%Y-%m-%d')
+        cms_obj = Format.AuthorDateFormat()
         cms_obj.title = article['Title']
-        cms_obj.year_of_publication = year
+        if year:
+            cms_obj.year_of_publication = year
+        else:
+            cms_obj.year_of_publication = today_datetime.date().year
+        if monthdate:
+            cms_obj.date_of_publication = monthdate
+        else:
+            cms_obj.date_of_publication = datetime.date.strftime(today_datetime.date(), "%B %d")
+
         cms_obj.date_of_publication = monthdate
-        cms_obj.access_date = today
+        cms_obj.access_date = today_datetime_str
         cms_obj.publisher_name = article['AuthorSite']
 
         cms = '* [{}. {}. "{}" Site, {}. Accessed {}.]({})'.format(
-                article['AuthorSite'], year, article['Title'], monthdate, today, article['Url'])
+                article['AuthorSite'], year, article['Title'], monthdate, today_datetime_str, article['Url'])
         return (cms, cms_obj)
 
 
