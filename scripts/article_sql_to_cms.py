@@ -4,7 +4,8 @@
 #
 # class Article(Model):
 #
-
+import sys
+sys.path.insert(0, '../')
 from CMS import Format
 import re
 import mysql.connector
