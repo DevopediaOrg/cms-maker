@@ -17,8 +17,8 @@ logging.basicConfig(level=logging.DEBUG)
 class ScraperPipeline(object):
     def open_spider(self, spider):
         logging.debug("Opening Spider")
-        self.adf_file = open("adf-results.json", "w")
-        self.items_file = open("results.json", "w")
+        self.adf_file = open("../resources/adf_results.json", "w")
+        self.items_file = open("../resources/results.json", "w")
         self.results = dict()
         self.items = []
 
@@ -32,6 +32,6 @@ class ScraperPipeline(object):
     def process_item(self, item, spider):
         if item["CMS-ADF"]:
             adf = item["CMS-ADF"]
-            self.results[adf.title] = adf
+            self.results[adf.url] = adf
         self.items.append(item)
         return item

@@ -45,7 +45,7 @@ class ReferenceExtractor:
     CMS_AUTHOR_YEAR_TITLE_REGEX = "\[(?P<authors>.*?)\.\W*(?P<year>[0-9]{4}[a-z]?)\.\W*(?P<title>\".*\")\.?.*"
 
     # Date can be internal like May17-25, or  Febraury 19, 2017
-    CMS_DATE_PUB_UPDATED_ACCESSED_URL_REGEX = ",?(?P<date>[A-Za-z]+\W([0-2][0-9]|[3][01]))?(\.\W*)?(\,\W*)?(?P<date_updated>(Updated?\W[a-zA-Z]+\W+([0-9]{1,2}|([0-2]?[0-9]|[3]?[01])-([0-2]?[0-9]|[3]?[01]))|[0-9]{4}-[0-9]{2}-[0-9]{2})?)(\.\W*)?(?P<access_date>(Accessed|Retrieved)\W*[0-9]{4}-[0-9]{2}-[0-9]{2})(\.\W*)?\]\.*?\((?P<url>.*?)\)"
+    CMS_DATE_PUB_UPDATED_ACCESSED_URL_REGEX = ",?(?P<date>[A-Za-z]+\W([0-2][0-9]|[3][01]))?(\.\W*)?(\,\W*)?(?P<date_updated>(Updated?\W[a-zA-Z]+\W+([0-9]{1,2}|([0-2]?[0-9]|[3]?[01])-([0-2]?[0-9]|[3]?[01]))|[0-9]{4}-[0-9]{2}-[0-9]{2})?)(\.\W*)?(?P<access_date>(Accessed|Retrieved)\W*[0-9]{4}-[0-9]{2}-[0-9]{2})(\.\W*)?\]\.*?\((?P<url>.*\??)\)"
 
     CMS_REGEX = ".*?(?P<details>.*?)?(\.)?\W*?(?P<publisher>.*?)\,.*?"
 
@@ -92,6 +92,9 @@ class ReferenceExtractor:
                 # TODO Abhishek-P extract date from access_date
                 pass
             ref.url = match3.group('url')
+            if ref.url.find("?"):
+                values = ref.url.split("?")
+                ref.url = values[0]
         match = re.search(self.CMS_REGEX, ref_text)
         if match:
             if match.group('details'):

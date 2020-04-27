@@ -7,7 +7,7 @@ class AuthorDateFormat:
     Details, Publisher, Date: {details}, {publisher}, {date}
     Date Updated, Access Date, URL: {date_updated}, {access_date}, {url}
     """
-
+    # TODO Abhishek-P add support to get ADF object from dict of the fields
     def __init__(self):
         self.author_name = None
         self.year_of_publication = None

@@ -208,7 +208,8 @@ class HtmlScraper(object):
             cms_obj.date_of_publication = monthdate
         else:
             cms_obj.date_of_publication = datetime.date.strftime(today_datetime.date(), "%B %d")
-
+        # Remove queryparams
+        cms_obj.url = article["url"].split("?")[0]
         cms_obj.date_of_publication = monthdate
         cms_obj.access_date = today_datetime_str
         cms_obj.publisher_name = article['AuthorSite']
@@ -223,7 +224,7 @@ class HtmlScraper(object):
         """Scrape a single article."""
         self.log("Info: Scraping " + article['link'] + ' ...')
         item = self.__scrape_article(article, withText)
-        item['Url'] = article['link']
+        item['url'] = article['link']
         if item:
             item['CMS'], item['CMS-ADF'] = self.make_cms(item)
 
