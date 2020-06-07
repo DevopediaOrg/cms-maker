@@ -147,7 +147,6 @@ class HtmlScraper(object):
         self.parsely_count = 0
         self.microdata_count = 0
         self.opengraph_count = 0
-        self.nlp = stanza.Pipeline(lang='en', processors='tokenize,ner')
 
         # --------------------------------------------------------------------
 

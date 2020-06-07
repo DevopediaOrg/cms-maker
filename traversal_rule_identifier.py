@@ -6,11 +6,13 @@ logging.basicConfig(level=logging.DEBUG)
 # and given a traversal rule identify the author
 class TraversalRule:
     NER_TAG_PERSON = "PERSON"
+    nlp = stanza.Pipeline(lang='en', processors='tokenize,ner')
 
     def __init__(self, parsed_page, author_name, traversal_rule):
         self.parsed_page = parsed_page
         self.author_name = author_name
-        self.nlp = stanza.Pipeline(lang='en', processors='tokenize,ner')
+        if traversal_rule:
+            self.traversal_rule = traversal_rule
         self.traversal_rule = list()
 
     # https://stackoverflow.com/questions/54265391/find-all-end-nodes-that-contain-text-using-beautifulsoup4

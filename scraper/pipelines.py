@@ -50,7 +50,7 @@ class ScraperPipeline(object):
                 logging.debug("Dumping Candidate Authors for {}".format(adf.url))
                 self.author_candidates[adf.url] = item["CANDIDATE_AUTHORS"]
 
-            if self.author_candidates and self.url_references and adf.url in self.url_references and adf.url in self.author_candidates:
+            if get_domain(adf.url) not in self.traversal and self.author_candidates and self.url_references and adf.url in self.url_references and adf.url in self.author_candidates :
                 reference = self.url_references[adf.url]
                 if reference['author_name']:
                     tr = TraversalRule(None, reference['author_name'], None)
@@ -59,11 +59,11 @@ class ScraperPipeline(object):
                     if tr.traversal_rule:
                         self.traversal[get_domain(adf.url)] = tr.traversal_rule
 
+            logging.debug("Traversal rule {}".format(self.traversal))
 
-                
         self.items.append(item)
         return item
 
 def get_domain(url):
     extracted = tldextract.extract(url)
-    return extracted.domain
+    return extracted.registered_domain
