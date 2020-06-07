@@ -2,6 +2,7 @@
 
 import json
 import hashlib
+import logging
 
 import scrapy
 
@@ -24,7 +25,7 @@ class ContentScraper(scrapy.Spider):
         # Read URLs from a JSON file
         with open(self.urlfile) as fin:
             urls = json.load(fin)
-
+        logging.debug("Total Urls to scrape: {}".format(len(urls)))
         if not urls or not isinstance(urls, list):
             raise scrapy.exceptions.CloseSpider('No valid URLs seen in JSON file.')
 
@@ -32,6 +33,7 @@ class ContentScraper(scrapy.Spider):
         self.hscp = html_scraper.HtmlScraper()
 
         for url in urls:
+            logging.info("Starting on url {}".format(url))
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):

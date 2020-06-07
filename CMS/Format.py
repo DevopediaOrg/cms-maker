@@ -2,6 +2,19 @@ from json import JSONEncoder
 import json
 
 class AuthorDateFormat:
+    AUTHOR_KEY = "author_name"
+    YEAR_OF_PUB_KEY = "year_of_publication"
+    TITLE_KEY = "title"
+    DETAILS_KEY = "details"
+    PUBLISHER_KEY = "publisher_name"
+    DATE_OF_PUBLICATION_KEY = "date_of_publication"
+    DATE_UPDATED_KEY = "date_updated"
+    ACCESS_DATE_KEY = "access_date"
+    URL_KEY = "url"
+
+    KEYS = {
+        AUTHOR_KEY, YEAR_OF_PUB_KEY, TITLE_KEY, DETAILS_KEY, PUBLISHER_KEY, DATE_OF_PUBLICATION_KEY, DATE_OF_PUBLICATION_KEY, DATE_UPDATED_KEY, ACCESS_DATE_KEY, URL_KEY
+    }
     PRINT_TEMPLATE = """
     Author, Year, Title : {author}, {year}, {title}
     Details, Publisher, Date: {details}, {publisher}, {date}
@@ -40,4 +53,6 @@ from json import JSONEncoder
 
 class MyEncoder(JSONEncoder):
     def default(self, o):
-        return o.__dict__
+        if o.__dict__:
+            return o.__dict__
+        return dict()

@@ -13,3 +13,6 @@ for refs_key in references:
 
 with open("../resources/url_references.json", "w") as dump_file:
     json.dump(url_ref_dict, dump_file)
+
+with open("../resources/urls.json", "w") as dump_file:
+    json.dump(list(url_ref_dict.keys()), dump_file)

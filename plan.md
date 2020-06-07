@@ -1,6 +1,5 @@
 # CMS Maker Plans
-### Accessed Date as fallback for Year an Date of Publication
-### Publisher as Author
+### Tag Heirarchy as rule - validate for analytics vidhya and medium
 ### NER For Author Identification
 ### NER for Publisher Identification
  

@@ -7,14 +7,13 @@ from CMS import Format
 
 with open("../resources/references.pkl", "rb") as dump_file:
     references = pickle.load(dump_file)
-
+new_references = dict()
 for article_title in references:
     print(article_title)
-    print("Uncleaned", len(references[article_title]))
-    references[article_title] = [x for x in references[article_title] if x]
-    print("Cleaned", len(references[article_title]))
-    print("\n")
-
+    new_references[article_title] = [x for x in references[article_title] if x]
+    if len(references[article_title]) != len(new_references[article_title]):
+        print("Mismatch:", len(references[article_title]), len(new_references[article_title]))
+references = new_references
 with open("../resources/references.pkl", "wb") as dump_file:
     pickle.dump(references, dump_file)
 

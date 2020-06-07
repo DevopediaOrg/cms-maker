@@ -1,0 +1,5865 @@
+{
+  "https://www.facebook.com/notes/facebook-engineering/building-facebook-messenger/10150259350998920": [
+    {
+      "author_entity": {
+        "text": "Beluga",
+        "type": "PERSON",
+        "start_char": 73,
+        "end_char": 79
+      },
+      "node_ancestory": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Messenger",
+        "type": "PERSON",
+        "start_char": 31,
+        "end_char": 40
+      },
+      "node_ancestory": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Lucy Zhang",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "em"
+    }
+  ],
+  "http://docs.oasis-open.org/mqtt/mqtt-nist-cybersecurity/v1.0/mqtt-nist-cybersecurity-v1.0.html": [
+    {
+      "author_entity": {
+        "text": "Geoff Brown",
+        "type": "PERSON",
+        "start_char": 5,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "William Bathurst",
+        "type": "PERSON",
+        "start_char": 5,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Julien Niset",
+        "type": "PERSON",
+        "start_char": 5,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Sarah Cooper",
+        "type": "PERSON",
+        "start_char": 5,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Allan Stockdill-Mander",
+        "type": "PERSON",
+        "start_char": 5,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Richard Coppen",
+        "type": "PERSON",
+        "start_char": 5,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Andrew Schofield",
+        "type": "PERSON",
+        "start_char": 5,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Peter Niblett",
+        "type": "PERSON",
+        "start_char": 5,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Andrew Banks",
+        "type": "PERSON",
+        "start_char": 5,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Geoff Brown",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    }
+  ],
+  "http://mqtt.org/faq": [],
+  "http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html": [
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Sessions",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "NIST7628",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "span",
+        "span",
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "H. Tschofenig",
+        "type": "PERSON",
+        "start_char": 46,
+        "end_char": 59
+      },
+      "node_ancestory": [
+        "i",
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "W. Polk",
+        "type": "PERSON",
+        "start_char": 77,
+        "end_char": 84
+      },
+      "node_ancestory": [
+        "i",
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Hardt",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 12
+      },
+      "node_ancestory": [
+        "i",
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "C. Adams",
+        "type": "PERSON",
+        "start_char": 77,
+        "end_char": 85
+      },
+      "node_ancestory": [
+        "i",
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "SARBANES",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "span",
+        "span",
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Sarbanes-Oxley",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "i",
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "PUBLISH",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "PUBREL",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 14
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "PUBLISH",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "PUBREL",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 14
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "PUBLISH",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "p",
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "PUBREL",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "p",
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "PUBLISH",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "p",
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "PUBREL",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "p",
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Will Retain",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Will Retain",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Alive LSB",
+        "type": "PERSON",
+        "start_char": 13,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Sanjay Aiyagari",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Ben Bakowski",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Andrew Banks",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Arthur Barr",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "William Bathurst",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Ken Borgendale",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Geoff Brown",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "James Butler",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Marco Carrer",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Raphael Cohn",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Sarah Cooper",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Richard Coppen",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "AJ Dalola",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Mark Darbyshire",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Scott deDeugd",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Paul Duffy",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "John Fallows",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Pradeep Fernando",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Paul Fremantle",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Thomas Glover",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Steve Huston",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Wes Johnson",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Christopher Kelley",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "David Kemper",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "James Kirkland",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Alex Kritikos",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "David Locke",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Shawn McAllister",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Dale Moberg",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Manu Namboodiri",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Peter Niblett",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Arlen Nipper",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Julien Niset",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Mark Nixon",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Nicholas O'Leary",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Sandor Palfy",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Dominik Obermaier",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 23
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Pavan Reddy",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Andrew Schofield",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Wadih Shaib",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Ian Skerrett",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Joe Speed",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Allan Stockdill-Mander",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 28
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Gary Stuebing",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Steve Upton",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "James Wert jr",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "T. Wyatt",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 14
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Dominik Zajac",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Geoff Brown",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 22,
+        "end_char": 33
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Banks",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Rahul Gupta",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    }
+  ],
+  "http://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html": [
+    {
+      "author_entity": {
+        "text": "Andrew Banks",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Sessions",
+        "type": "PERSON",
+        "start_char": 65,
+        "end_char": 73
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "ChaCha20",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 14
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "NIST7628",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "b",
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Hardt",
+        "type": "PERSON",
+        "start_char": 5,
+        "end_char": 10
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "C. Adams",
+        "type": "PERSON",
+        "start_char": 75,
+        "end_char": 83
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Sarbanes-Oxley",
+        "type": "PERSON",
+        "start_char": 5,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "L. Esibov",
+        "type": "PERSON",
+        "start_char": 37,
+        "end_char": 46
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "PUBLISH",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "PUBREL",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 14
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "PUBLISH",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "PUBREL",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 14
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "PUBLISH",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "p",
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "PUBREL",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "p",
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Alias",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "PUBLISH",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "PUBLISH",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "p",
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "PUBREL",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "p",
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Will Message",
+        "type": "PERSON",
+        "start_char": 24,
+        "end_char": 36
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Alias",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Alive LSB",
+        "type": "PERSON",
+        "start_char": 13,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Sessions",
+        "type": "PERSON",
+        "start_char": 178,
+        "end_char": 186
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "The Will Topic",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Will\r\n  Retain",
+        "type": "PERSON",
+        "start_char": 59,
+        "end_char": 73
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Filter",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Will Message",
+        "type": "PERSON",
+        "start_char": 24,
+        "end_char": 36
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Sever",
+        "type": "PERSON",
+        "start_char": 77,
+        "end_char": 82
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Alias",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "CHACHA20",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 14
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Brian Raymor",
+        "type": "PERSON",
+        "start_char": 29,
+        "end_char": 41
+      },
+      "node_ancestory": [
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Alias Maximum",
+        "type": "PERSON",
+        "start_char": 15,
+        "end_char": 28
+      },
+      "node_ancestory": [
+        "p",
+        "td",
+        "tr",
+        "table",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Topic Alias",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    }
+  ],
+  "https://www.ibm.com/podcasts/software/websphere/connectivity/piper_diaz_nipper_mq_tt_11182011.pdf": [],
+  "https://www.hivemq.com/blog/clustering-mqtt-introduction-benefits/": [
+    {
+      "author_entity": {
+        "text": "HiveMQ",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kafka Solution",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "MQ Cloud",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kafka Extension",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Docker",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "section",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://www.hivemq.com/blog/mqtt-5-time-to-upgrade-yet/": [
+    {
+      "author_entity": {
+        "text": "HiveMQ",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kafka Solution",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "MQ Cloud",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kafka Extension",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Eclipse Paho",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "div",
+        "article",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Paho",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 13
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "div",
+        "article",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "The HiveMQ Team",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "div",
+        "article",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "em"
+    },
+    {
+      "author_entity": {
+        "text": "Docker",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "section",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://www.iso.org/standard/69466.html": [],
+  "https://www.nist.gov/news-events/news/2018/04/nist-releases-version-11-its-popular-cybersecurity-framework": [
+    {
+      "author_entity": {
+        "text": "CNST NanoFab",
+        "type": "PERSON",
+        "start_char": 17,
+        "end_char": 29
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "li",
+        "ul",
+        "div",
+        "nav",
+        "header",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Image Gallery",
+        "type": "PERSON",
+        "start_char": 15,
+        "end_char": 28
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "li",
+        "ul",
+        "div",
+        "nav",
+        "header",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Wilbur Ross",
+        "type": "PERSON",
+        "start_char": 103,
+        "end_char": 114
+      },
+      "node_ancestory": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Walter G. Copan",
+        "type": "PERSON",
+        "start_char": 275,
+        "end_char": 290
+      },
+      "node_ancestory": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Matt Barrett",
+        "type": "PERSON",
+        "start_char": 76,
+        "end_char": 88
+      },
+      "node_ancestory": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Jennifer Huergo",
+        "type": "PERSON",
+        "start_char": 17,
+        "end_char": 32
+      },
+      "node_ancestory": [
+        "div",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "aside",
+        "div",
+        "div",
+        "section",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Email Address",
+        "type": "PERSON",
+        "start_char": 20,
+        "end_char": 33
+      },
+      "node_ancestory": [
+        "form",
+        "div",
+        "div",
+        "div",
+        "aside",
+        "div",
+        "div",
+        "section",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "label"
+    }
+  ],
+  "https://developer.ibm.com/technologies/web-development/": [
+    {
+      "author_entity": {
+        "text": "Hybrid Cloud",
+        "type": "PERSON",
+        "start_char": 15,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Istio",
+        "type": "PERSON",
+        "start_char": 15,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "TensorFlow",
+        "type": "PERSON",
+        "start_char": 15,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Istio",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "a",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "TensorFlow",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "a",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 13,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "footer",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://www.hivemq.com/blog/mqtt-essentials-part-8-retained-messages/": [
+    {
+      "author_entity": {
+        "text": "HiveMQ",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kafka Solution",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "MQ Cloud",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kafka Extension",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Docker",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "section",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt/": [
+    {
+      "author_entity": {
+        "text": "HiveMQ",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kafka Solution",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "MQ Cloud",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kafka Extension",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Docker",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "section",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://www.hivemq.com/blog/mqtt-essentials-part2-publish-subscribe/": [
+    {
+      "author_entity": {
+        "text": "HiveMQ",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kafka Solution",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "MQ Cloud",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kafka Extension",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Docker",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "section",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://www.eclipse.org/proposals/technology.paho/": [
+    {
+      "author_entity": {
+        "text": "Newcomer Forum",
+        "type": "PERSON",
+        "start_char": 14,
+        "end_char": 28
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Newcomer Forum",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 32
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "div",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Breadcrumbs",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "div",
+        "section",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Paho",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 13
+      },
+      "node_ancestory": [
+        "ol",
+        "div",
+        "div",
+        "div",
+        "section",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "li"
+    },
+    {
+      "author_entity": {
+        "text": "Paho",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 14
+      },
+      "node_ancestory": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h1"
+    },
+    {
+      "author_entity": {
+        "text": "Paho",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 14
+      },
+      "node_ancestory": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "title"
+    },
+    {
+      "author_entity": {
+        "text": "Scott de Deugd",
+        "type": "PERSON",
+        "start_char": 27,
+        "end_char": 41
+      },
+      "node_ancestory": [
+        "dl",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "dt"
+    },
+    {
+      "author_entity": {
+        "text": "Ian Craggs",
+        "type": "PERSON",
+        "start_char": 22,
+        "end_char": 32
+      },
+      "node_ancestory": [
+        "dl",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "dt"
+    },
+    {
+      "author_entity": {
+        "text": "Chad Kienle",
+        "type": "PERSON",
+        "start_char": 22,
+        "end_char": 33
+      },
+      "node_ancestory": [
+        "dl",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "dt"
+    },
+    {
+      "author_entity": {
+        "text": "Dave Locke",
+        "type": "PERSON",
+        "start_char": 22,
+        "end_char": 32
+      },
+      "node_ancestory": [
+        "dl",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "dt"
+    },
+    {
+      "author_entity": {
+        "text": "David Williams",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "li"
+    },
+    {
+      "author_entity": {
+        "text": "John Duimovich",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "li"
+    },
+    {
+      "author_entity": {
+        "text": "Simon Archer",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 23
+      },
+      "node_ancestory": [
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "li"
+    },
+    {
+      "author_entity": {
+        "text": "James Branigan",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "li"
+    },
+    {
+      "author_entity": {
+        "text": "Randy Carroll",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "li"
+    },
+    {
+      "author_entity": {
+        "text": "Benjamin Cabé",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "li"
+    },
+    {
+      "author_entity": {
+        "text": "Werner Keil",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "li"
+    },
+    {
+      "author_entity": {
+        "text": "Werner Keil",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 29
+      },
+      "node_ancestory": [
+        "tr",
+        "table",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "td"
+    }
+  ],
+  "https://www.eclipse.org/paho/clients/c/embedded/": [
+    {
+      "author_entity": {
+        "text": "Transparent Gateway",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 30
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "nav",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Paho Proposal",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "nav",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Mattermost Channel",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 29
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "nav",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Paho",
+        "type": "PERSON",
+        "start_char": 19,
+        "end_char": 23
+      },
+      "node_ancestory": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Offline Buffering",
+        "type": "PERSON",
+        "start_char": 14,
+        "end_char": 31
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "tbody",
+        "table",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Offline Buffering",
+        "type": "PERSON",
+        "start_char": 14,
+        "end_char": 31
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "tbody",
+        "table",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Offline Buffering",
+        "type": "PERSON",
+        "start_char": 14,
+        "end_char": 31
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "tbody",
+        "table",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Paho",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 13
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://www.eclipse.org/paho/downloads.php": [
+    {
+      "author_entity": {
+        "text": "Transparent Gateway",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 30
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "nav",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Paho Proposal",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "nav",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Mattermost Channel",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 29
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "nav",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Offline Buffering",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 29
+      },
+      "node_ancestory": [
+        "th",
+        "tr",
+        "thead",
+        "table",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "GoLang",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "th",
+        "tr",
+        "tbody",
+        "table",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Pip",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "tbody",
+        "table",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Golang",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "th",
+        "tr",
+        "tbody",
+        "table",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "NuGet",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "td",
+        "tr",
+        "tbody",
+        "table",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://www.hivemq.com/blog/mqtt5-essentials-part2-foundational-changes-in-the-protocol/": [
+    {
+      "author_entity": {
+        "text": "HiveMQ",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kafka Solution",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "MQ Cloud",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kafka Extension",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "nav",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "PUBREL",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "ul",
+        "section",
+        "div",
+        "article",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "li"
+    },
+    {
+      "author_entity": {
+        "text": "Pre-Defined Header",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 29
+      },
+      "node_ancestory": [
+        "tr",
+        "thead",
+        "table",
+        "section",
+        "div",
+        "article",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "th"
+    },
+    {
+      "author_entity": {
+        "text": "The HiveMQ Team",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "div",
+        "article",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "em"
+    },
+    {
+      "author_entity": {
+        "text": "Docker",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "section",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://projects.eclipse.org/projects/iot.paho/releases/1.4.0-photon": [
+    {
+      "author_entity": {
+        "text": "Newcomer Forum",
+        "type": "PERSON",
+        "start_char": 14,
+        "end_char": 28
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Newcomer Forum",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 32
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "div",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Eclipse Paho",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "section",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Eclipse Photon",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 30
+      },
+      "node_ancestory": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "section",
+        "div",
+        "div",
+        "section",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Eclipse Paho",
+        "type": "PERSON",
+        "start_char": 13,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "section",
+        "div",
+        "aside",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Hudson",
+        "type": "PERSON",
+        "start_char": 13,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "section",
+        "div",
+        "aside",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4": [
+    {
+      "author_entity": {
+        "text": "Newcomer Forum",
+        "type": "PERSON",
+        "start_char": 14,
+        "end_char": 28
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Newcomer Forum",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 32
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "div",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Eclipse Paho",
+        "type": "PERSON",
+        "start_char": 15,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "section",
+        "div",
+        "aside",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "http://stephendnicholas.com/posts/power-profiling-mqtt-vs-https": [
+    {
+      "author_entity": {
+        "text": "Stephen Nicholas",
+        "type": "PERSON",
+        "start_char": 14,
+        "end_char": 30
+      },
+      "node_ancestory": [
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h1"
+    },
+    {
+      "author_entity": {
+        "text": "Micro Broker",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "article",
+        "section",
+        "main",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "PowerTutor",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "article",
+        "section",
+        "main",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Stephen Nicholas",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "footer",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "small"
+    }
+  ],
+  "http://mqtt.org/2012/09/mosquitoes-rabbits-facebook-portals-news-round-up": [
+    {
+      "author_entity": {
+        "text": "Roger Light",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "James Governor",
+        "type": "PERSON",
+        "start_char": 23,
+        "end_char": 37
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://www.rabbitmq.com/blog/2012/09/12/mqtt-adapter/": [
+    {
+      "author_entity": {
+        "text": "Paho",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 14
+      },
+      "node_ancestory": [
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "li"
+    },
+    {
+      "author_entity": {
+        "text": "KongNan",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "cite"
+    },
+    {
+      "author_entity": {
+        "text": "Emile Joubert",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "cite"
+    },
+    {
+      "author_entity": {
+        "text": "Emile Joubert",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "cite"
+    },
+    {
+      "author_entity": {
+        "text": "Michel",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "cite"
+    },
+    {
+      "author_entity": {
+        "text": "Michel",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Emile Joubert",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "cite"
+    },
+    {
+      "author_entity": {
+        "text": "Pritesh Patel",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "cite"
+    },
+    {
+      "author_entity": {
+        "text": "Pritesh Patel",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "cite"
+    },
+    {
+      "author_entity": {
+        "text": "Andrew Ralston",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 23
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "cite"
+    },
+    {
+      "author_entity": {
+        "text": "Andrew Ralston",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 23
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "cite"
+    },
+    {
+      "author_entity": {
+        "text": "Emile Joubert",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "cite"
+    },
+    {
+      "author_entity": {
+        "text": "Emile Joubert",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "cite"
+    },
+    {
+      "author_entity": {
+        "text": "Kiesha Corazza",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "cite",
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Simon",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 14
+      },
+      "node_ancestory": [
+        "li",
+        "ol",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "cite"
+    }
+  ],
+  "https://mosquitto.org/blog/2018/05/press-release/": [],
+  "https://projects.eclipse.org/projects/iot.mosquitto": [
+    {
+      "author_entity": {
+        "text": "Newcomer Forum",
+        "type": "PERSON",
+        "start_char": 14,
+        "end_char": 28
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Newcomer Forum",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 32
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "div",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Eclipse Paho",
+        "type": "PERSON",
+        "start_char": 15,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "section",
+        "div",
+        "aside",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://www.eclipse.org/org/press-release/20150304_paho_mosquitto.php": [
+    {
+      "author_entity": {
+        "text": "Newcomer Forum",
+        "type": "PERSON",
+        "start_char": 14,
+        "end_char": 28
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Newcomer Forum",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 32
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "div",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "header",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Breadcrumbs",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "div",
+        "section",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Mike Milinkovich",
+        "type": "PERSON",
+        "start_char": 139,
+        "end_char": 155
+      },
+      "node_ancestory": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Bluewind",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "p",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "main",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "b"
+    }
+  ],
+  "https://community.ibm.com/community/user/legacy": [
+    {
+      "author_entity": {
+        "text": "Cloud Pak",
+        "type": "PERSON",
+        "start_char": 14,
+        "end_char": 23
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "form",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ],
+  "https://www.rfwireless-world.com/Terminology/MQTT-vs-HTTP.html": [
+    {
+      "author_entity": {
+        "text": "EnOcean",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "p",
+        "article",
+        "section",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "LoRa",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 13
+      },
+      "node_ancestory": [
+        "p",
+        "article",
+        "section",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Zigbee",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "p",
+        "article",
+        "section",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Zigbee RF4CE",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "p",
+        "article",
+        "section",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Avionics",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "div",
+        "article",
+        "section",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Zigbee",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 18
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "ul",
+        "li",
+        "ul",
+        "aside",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Waveguide",
+        "type": "PERSON",
+        "start_char": 12,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "ul",
+        "li",
+        "ul",
+        "aside",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Femtocell",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "div",
+        "aside",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "TETRA",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 13
+      },
+      "node_ancestory": [
+        "div",
+        "aside",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "LoRa",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 12
+      },
+      "node_ancestory": [
+        "div",
+        "aside",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "KNX",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 11
+      },
+      "node_ancestory": [
+        "div",
+        "aside",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Diac",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 12
+      },
+      "node_ancestory": [
+        "div",
+        "aside",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    }
+  ]
+}

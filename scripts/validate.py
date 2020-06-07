@@ -1,4 +1,6 @@
 import sys
+import time
+
 
 sys.path.insert(0, "../")
 
@@ -7,8 +9,9 @@ from scraper.spiders.contentscraper import ContentScraper
 from scrapy.settings import Settings
 import json
 import logging
-import tableprint as tp
-# logging.basicConfig(level=logging.DEBUG)
+
+
+logging.basicConfig(level=logging.DEBUG)
 
 
 class Validator:
@@ -20,11 +23,13 @@ class Validator:
     KEY_GENERATED = "generated"
 
     ADF_KEYS_TO_BE_NEGLECTED = ["url", "accessed_date"]
-    def __init__(self, labelled_data_file, inputs_file, spider, adf_results_file):
-        self.labelleled_data_file = labelled_data_file
+
+    def __init__(self, labeled_data_file, inputs_file, spider, adf_results_file):
+        self.labelleled_data_file = labeled_data_file
         self.inputs_file = inputs_file
         self.spider = spider
         self.adf_results_file = adf_results_file
+        self.adf_results = None
 
     def crawl(self):
         settings = Settings()
@@ -32,20 +37,21 @@ class Validator:
         settings.set("ITEM_PIPELINES", {"scraper.pipelines.ScraperPipeline": 100})
         process = CrawlerProcess(settings)
         process.crawl(self.spider)
-        process.start()
+        return process.start()
 
     def load_crawl_results(self):
         import os
         dir_path = os.path.dirname(os.path.realpath(__file__))
-        self.adf_results = None
         with open(self.adf_results_file, "r") as adf_results_fp:
             self.adf_results = json.load(adf_results_fp)
+        logging.debug("Crawl results size {}".format(len(self.adf_results)))
         return self.adf_results
 
     def load_labelled_data(self):
         self.gold_results = None
         with open(self.labelleled_data_file, "r") as gold_results_fp:
             self.gold_results = json.load(gold_results_fp)
+            print("Gold Results Size:", len(self.gold_results))
         return self.gold_results
 
     def validate_result(self, gold_reference, result_reference):
@@ -57,6 +63,7 @@ class Validator:
         result["gold_missing_keys"] = list()
         for key in result_reference:
             if key in gold_reference and key not in self.ADF_KEYS_TO_BE_NEGLECTED:
+                # TODO Abhishek-P remove condition
                 if gold_reference[key]:
                     if result_reference[key]:
                         if str(gold_reference[key]).lower() == str(result_reference[key]).lower():
@@ -77,19 +84,24 @@ class Validator:
         results = dict()
         if self.gold_results and self.adf_results:
             for reference in self.adf_results:
+                if reference in self.gold_results:
                 # adf_result = self.adf_results[reference]
                 # reference = reference.split("?")[0]
-                result = self.validate_result(self.gold_results[reference], self.adf_results[reference])
-                results[reference] = result
+                    result = self.validate_result(self.gold_results[reference], self.adf_results[reference])
+                    results[reference] = result
         return results
 
     def run(self):
+        logging.debug("Starting Validator")
+        # while not self.adf_results or len(self.adf_results) < 100:
         self.crawl()
-        self.load_crawl_results(),
+        return;
+        self.load_crawl_results()
         self.load_labelled_data()
         results = self.validate_results()
         count_full_matches = 0
         count_partial_matches = 0
+        keys_stats_count = dict()
         avg_matched_keys_count = 0
         for ref in results:
             result = results[ref]
@@ -109,11 +121,18 @@ class Validator:
             elif result[self.KEY_PARTIAL_MATCH]:
                 count_partial_matches += 1
                 avg_matched_keys_count += len(result[self.KEY_MATCHED_KEYS])
-        avg_matched_keys_count = avg_matched_keys_count / len(results)
+            for key in result[self.KEY_MATCHED_KEYS]:
+                if not key in keys_stats_count:
+                    keys_stats_count[key] = 0
+
+                keys_stats_count[key] += 1
+        if len(results) > 0:
+            avg_matched_keys_count = avg_matched_keys_count / len(results)
         logging.info("TOTAL: {}".format(len(results)))
         logging.info("FULL MATCHES: {}".format(count_full_matches))
         logging.info("PARTIAL MATCHES: {}".format(count_partial_matches))
         logging.info("AVG MATCHED KEYS: {}".format(avg_matched_keys_count))
+        logging.info("KEY_MATCHED STATUS {}".format(keys_stats_count))
 
 
 if __name__ == "__main__":
