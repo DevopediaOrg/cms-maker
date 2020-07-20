@@ -11,9 +11,9 @@ class TraversalRule:
     def __init__(self, parsed_page, author_name, traversal_rule):
         self.parsed_page = parsed_page
         self.author_name = author_name
+        self.traversal_rule = list()
         if traversal_rule:
             self.traversal_rule = traversal_rule
-        self.traversal_rule = list()
 
     # https://stackoverflow.com/questions/54265391/find-all-end-nodes-that-contain-text-using-beautifulsoup4
     def mark_if_leaf_with_text(self, node):
@@ -72,9 +72,15 @@ class TraversalRule:
 
     def get_author_from_traversal(self):
         logging.info("Picking the author from candidates based on the traversal rule")
-        for candidate in self.find_candidates():
-            if candidate['ancestors'] == self.traversal_rule:
-                return candidate['author_entity']
+
+        self.find_candidates()
+        candidates = self.candidates
+        if candidates:
+            for candidate in candidates:
+                if candidate['ancestors'] == self.traversal_rule:
+                    return candidate['author_entity']
+
+        return None
 
 
     def get_normal_name(self):

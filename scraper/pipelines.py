@@ -13,7 +13,7 @@ import json
 import logging
 
 from traversal_rule_identifier import TraversalRule
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.ERROR)
 AUTHOR_CANDIDATES_FILE_PREFIX = "author-candidates-"
 
 class ScraperPipeline(object):
@@ -27,9 +27,10 @@ class ScraperPipeline(object):
         self.items = []
         self.author_candidates = dict()
         self.traversal = dict()
-        self.traversal_rule_file = open("../resources/domain_traversal_rules.json", "w")
+        self.traversal_rule_file = open("../resources/domain_traversal_rules-500.json", "w")
         with open("../resources/url_references.json", "r") as fp:
             self.url_references = json.load(fp)
+
 
     def close_spider(self, spider):
         # logging.debug("Closing Spider and dumping {}".format(self.results))
@@ -41,6 +42,12 @@ class ScraperPipeline(object):
         self.items_file.close()
         self.adf_file.close()
         self.author_candidates_file.close()
+
+    def checkpoint_domain_traversal(self):
+        self.traversal_rule_file = open("../resources/domain_traversal_rules-500.json", "w")
+        json.dump(self.traversal, self.traversal_rule_file)
+
+
 
     def process_item(self, item, spider):
         if item["CMS-ADF"]:
@@ -62,6 +69,7 @@ class ScraperPipeline(object):
             logging.debug("Traversal rule {}".format(self.traversal))
 
         self.items.append(item)
+        self.checkpoint_domain_traversal()
         return item
 
 def get_domain(url):

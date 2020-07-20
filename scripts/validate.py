@@ -11,7 +11,7 @@ import json
 import logging
 
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.ERROR)
 
 
 class Validator:
@@ -92,9 +92,10 @@ class Validator:
         return results
 
     def run(self):
-        logging.debug("Starting Validator")
+        # logging.debug("Starting at", time.strftime("%b %d %Y %H:%M:%S", time.time()))
         # while not self.adf_results or len(self.adf_results) < 100:
         self.crawl()
+        # logging.debug("Complete a+t", time.strftime("%b %d %Y %H:%M:%S", time.time()))
         return;
         self.load_crawl_results()
         self.load_labelled_data()
