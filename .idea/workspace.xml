@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b27fcb34-aacb-483e-9ee9-34b6de450dc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/linkedin-dot-com-references-author-candidates.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/linkedin-dot-com-url-author-traversal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/some-author-candidates.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/generate-traversal-rule.json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/gold_results_stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/pick_by_subdomain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/traversal_rule_identifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMS/Format.py" beforeDir="false" afterPath="$PROJECT_DIR$/CMS/Format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/plan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/references.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/references.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/references.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/resources/references.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/html_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/html_scraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/spiders/contentscraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/spiders/contentscraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/clean_references.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/clean_references.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/convert_references_to_url_based_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/convert_references_to_url_based_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/validate.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/validate.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Code\devo\cms-maker\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z9ssjWEV2YLVnLZ1lwiGb5yrVr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\devo\cms-maker" />
+      <recent name="C:\Code\devo\cms-maker\CMS" />
+      <recent name="C:\Code\devo\cms-maker\scripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code\devo\cms-maker" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.validate">
+    <configuration name="convert_references_to_url_based_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cms-maker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/convert_references_to_url_based_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gold_results_stats" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cms-maker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/gold_results_stats.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pick_by_subdomain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cms-maker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/pick_by_subdomain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="traversal_rule_identifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cms-maker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/traversal_rule_identifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="validate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cms-maker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/validate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.validate" />
+        <item itemvalue="Python.traversal_rule_identifier" />
+        <item itemvalue="Python.pick_by_subdomain" />
+        <item itemvalue="Python.gold_results_stats" />
+        <item itemvalue="Python.convert_references_to_url_based_dict" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b27fcb34-aacb-483e-9ee9-34b6de450dc8" name="Default Changelist" comment="" />
+      <created>1584262852627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584262852627</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="0" key="#article_sql_to_cms" timestamp="1587213057156">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="380" y="0" key="#article_sql_to_cms/0.0.1280.720@0.0.1280.720" timestamp="1587213057156" />
+    <state x="380" y="0" key="#clean-references_(1)" timestamp="1587213388800">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="380" y="0" key="#clean-references_(1)/0.0.1280.720@0.0.1280.720" timestamp="1587213388800" />
+    <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585139625663">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="1920" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584610698410" />
+    <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585139625663" />
+    <state x="391" y="160" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587211751993">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="391" y="151" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1585439292859" />
+    <state x="391" y="160" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1587211751993" />
+    <state x="396" y="70" key="#xdebugger.evaluate" timestamp="1591452513204">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="396" y="70" key="#xdebugger.evaluate/0.0.1280.720@0.0.1280.720" timestamp="1591452513204" />
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1590300030866">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1590300030866" />
+    <state x="93" y="93" width="1095" height="535" key="DiffContextDialog" timestamp="1586085966726">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="93" y="93" width="1095" height="535" key="DiffContextDialog/0.0.1280.720@0.0.1280.720" timestamp="1586085966726" />
+    <state x="421" y="105" key="FileChooserDialogImpl" timestamp="1588252163180">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585427059792" />
+    <state x="421" y="105" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1588252163180" />
+    <state width="1259" height="234" key="GridCell.Tab.0.bottom" timestamp="1591452701368">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="156" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585440616153" />
+    <state width="1259" height="234" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1591452701368" />
+    <state width="1259" height="234" key="GridCell.Tab.0.center" timestamp="1591452701368">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="156" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585440616153" />
+    <state width="1259" height="234" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1591452701368" />
+    <state width="1259" height="234" key="GridCell.Tab.0.left" timestamp="1591452701368">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="156" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585440616153" />
+    <state width="1259" height="234" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1591452701368" />
+    <state width="1259" height="234" key="GridCell.Tab.0.right" timestamp="1591452701368">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="156" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585440616153" />
+    <state width="1259" height="234" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1591452701368" />
+    <state width="1259" height="210" key="GridCell.Tab.1.bottom" timestamp="1591452566556">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1591452566556" />
+    <state width="1259" height="210" key="GridCell.Tab.1.center" timestamp="1591452566556">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1591452566556" />
+    <state width="1259" height="210" key="GridCell.Tab.1.left" timestamp="1591452566555">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1591452566555" />
+    <state width="1259" height="210" key="GridCell.Tab.1.right" timestamp="1591452566556">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1591452566556" />
+    <state x="402" y="75" key="RollbackChangesDialog" timestamp="1591201267665">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="402" y="75" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1591201267665" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1590864885838">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585139763178" />
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1590864885838" />
+    <state x="362" y="87" width="540" height="555" key="StructurePopup" timestamp="1591200651761">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="362" y="82" width="540" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1585407648894" />
+    <state x="362" y="87" width="540" height="555" key="StructurePopup/0.0.1280.720@0.0.1280.720" timestamp="1591200651761" />
+    <state width="498" height="473" key="SwitcherDM" timestamp="1586086488865">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1585145781942" />
+    <state width="498" height="473" key="SwitcherDM/0.0.1280.720@0.0.1280.720" timestamp="1586086488865" />
+    <state x="93" y="93" width="1095" height="535" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586598590517">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="93" y="93" width="1095" height="535" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.720@0.0.1280.720" timestamp="1586598590517" />
+    <state x="93" y="93" width="1095" height="535" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1586598590517">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="93" y="93" width="1095" height="535" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1280.720@0.0.1280.720" timestamp="1586598590517" />
+    <state x="349" y="179" key="com.intellij.ide.util.TipDialog" timestamp="1591503752901">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1584610460067" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585405968593" />
+    <state x="349" y="179" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1591503752901" />
+    <state x="216" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591451966579">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="216" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.720@0.0.1280.720" timestamp="1591451966579" />
+    <state x="346" y="102" width="591" height="517" key="find.popup" timestamp="1591200029260">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="346" y="96" width="591" height="488" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1585407619798" />
+    <state x="346" y="102" width="591" height="517" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1591200029260" />
+    <state x="303" y="1" width="672" height="718" key="search.everywhere.popup" timestamp="1591452696518">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585441117315" />
+    <state x="303" y="1" width="672" height="718" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1591452696518" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scraper/pipelines.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/traversal_rule_identifier.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scraper/pipelines.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

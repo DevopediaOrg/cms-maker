@@ -1,0 +1,35 @@
+{
+ "https://www.linkedin.com/pulse/origin-ab-testing-nicolai-kramer-jakobsen/" : [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+  "https://www.linkedin.com/pulse/webrtc-vs-sip-ming-ho" :[
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+  "https://www.linkedin.com/pulse/li-fi-vs-wi-fi-diwakar-rai/": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ]
+}

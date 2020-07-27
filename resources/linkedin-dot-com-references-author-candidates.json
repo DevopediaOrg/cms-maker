@@ -1,0 +1,4422 @@
+{
+  "https://www.linkedin.com/pulse/origin-ab-testing-nicolai-kramer-jakobsen/": [
+    {
+      "author_entity": {
+        "text": "Nicolai Kramer Jakobsen",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 33
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "James Lind",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "James Lind",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Nicolai Kramer Jakobsen",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 32
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Nicolai Kramer Jakobsen",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 39
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/webrtc-vs-sip-ming-ho": [
+    {
+      "author_entity": {
+        "text": "Ming Ho",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Ming Ho",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Ming Ho",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 23
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/li-fi-vs-wi-fi-diwakar-rai/": [
+    {
+      "author_entity": {
+        "text": "Diwakar Rai",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Diwakar Rai",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Diwakar Rai",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/top-10-sites-built-django-framework-vladimir-bogdanov/": [
+    {
+      "author_entity": {
+        "text": "Vladimir Bogdanov",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Bitbucket",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h2"
+    },
+    {
+      "author_entity": {
+        "text": "Django",
+        "type": "PERSON",
+        "start_char": 467,
+        "end_char": 473
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Instagram",
+        "type": "PERSON",
+        "start_char": 57,
+        "end_char": 66
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Mozilla Firefox",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h2"
+    },
+    {
+      "author_entity": {
+        "text": "Django",
+        "type": "PERSON",
+        "start_char": 46,
+        "end_char": 52
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Django",
+        "type": "PERSON",
+        "start_char": 272,
+        "end_char": 278
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Mahalo",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 12
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h2"
+    },
+    {
+      "author_entity": {
+        "text": "Django",
+        "type": "PERSON",
+        "start_char": 215,
+        "end_char": 221
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Vladimir Bogdanov",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Vladimir Bogdanov",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 33
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/definition-functional-programming-rainer-grimm": [
+    {
+      "author_entity": {
+        "text": "Rainer Grimm",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Simon Peyton Jones",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Python",
+        "type": "PERSON",
+        "start_char": 82,
+        "end_char": 88
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Philip Wadler",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Martin Odersky",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Erik Meijer",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Rainer Grimm",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Rainer Grimm",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 28
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/web-components-moving-beyond-react-kurt-cagle/": [
+    {
+      "author_entity": {
+        "text": "Kurt Cagle",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Merriam Webster",
+        "type": "PERSON",
+        "start_char": 642,
+        "end_char": 657
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "kurt-tagger",
+        "type": "PERSON",
+        "start_char": 0,
+        "end_char": 11
+      },
+      "node_ancestory": [
+        "span",
+        "pre",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "kurt-tagger",
+        "type": "PERSON",
+        "start_char": 0,
+        "end_char": 11
+      },
+      "node_ancestory": [
+        "span",
+        "pre",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "kurt-defs",
+        "type": "PERSON",
+        "start_char": 0,
+        "end_char": 9
+      },
+      "node_ancestory": [
+        "span",
+        "pre",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "kurt-defs",
+        "type": "PERSON",
+        "start_char": 0,
+        "end_char": 9
+      },
+      "node_ancestory": [
+        "span",
+        "pre",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "kurt-defs",
+        "type": "PERSON",
+        "start_char": 1,
+        "end_char": 10
+      },
+      "node_ancestory": [
+        "pre",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "span"
+    },
+    {
+      "author_entity": {
+        "text": "Kurt Cagle",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "span",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Kurt Cagle",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/cross-platform-mobile-app-development-flutter-xamarin-korhan-bircan/": [
+    {
+      "author_entity": {
+        "text": "Korhan Bircan",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 23
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Flutter",
+        "type": "PERSON",
+        "start_char": 123,
+        "end_char": 130
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Apache Cordova",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Korhan Bircan",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Korhan Bircan",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 29
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/unchain-blockchain-part-i-eva-rez/": [
+    {
+      "author_entity": {
+        "text": "Eva Rez",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Bitcoin Mining",
+        "type": "PERSON",
+        "start_char": 6,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h4"
+    },
+    {
+      "author_entity": {
+        "text": "Hashing",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "strong",
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "em"
+    },
+    {
+      "author_entity": {
+        "text": "Eva Rez",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Eva Rez",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 23
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/crypto-20-musings-proof-elapsed-time-alex-batlin/": [
+    {
+      "author_entity": {
+        "text": "Alex Batlin",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Nakamoto",
+        "type": "PERSON",
+        "start_char": 213,
+        "end_char": 221
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "em"
+    },
+    {
+      "author_entity": {
+        "text": "Sybil",
+        "type": "PERSON",
+        "start_char": 119,
+        "end_char": 124
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Casper",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 13
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Tendermint",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Alex Batlin",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Alex Batlin",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/most-popular-iot-programming-languages-today-archana-sharma": [
+    {
+      "author_entity": {
+        "text": "Archana Sharma",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Bjarne Stroustrup",
+        "type": "PERSON",
+        "start_char": 11,
+        "end_char": 28
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Archana Sharma",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 23
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Archana Sharma",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 30
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/how-copyright-causing-decay-public-datasets-arjan-wijnveen": [
+    {
+      "author_entity": {
+        "text": "Arjan Wijnveen",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Arjan Wijnveen",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "span",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Arjan Wijnveen",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 30
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/very-short-comparison-ansible-chef-puppet-saltstack-niels-goossens/": [
+    {
+      "author_entity": {
+        "text": "SaltStack",
+        "type": "PERSON",
+        "start_char": 59,
+        "end_char": 68
+      },
+      "node_ancestory": [
+        "head",
+        "html",
+        "[document]"
+      ],
+      "node_name": "title"
+    },
+    {
+      "author_entity": {
+        "text": "SaltStack",
+        "type": "PERSON",
+        "start_char": 61,
+        "end_char": 70
+      },
+      "node_ancestory": [
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h1"
+    },
+    {
+      "author_entity": {
+        "text": "Niels Goossens",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Chef",
+        "type": "PERSON",
+        "start_char": 330,
+        "end_char": 334
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Niels Goossens",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "span",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Niels Goossens",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 30
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/consensus-mechanisms-used-blockchain-ronald-chan/": [
+    {
+      "author_entity": {
+        "text": "Ronald Chan",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Buterin",
+        "type": "PERSON",
+        "start_char": 229,
+        "end_char": 236
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Satoshi Nakamoto",
+        "type": "PERSON",
+        "start_char": 998,
+        "end_char": 1014
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Mazieres",
+        "type": "PERSON",
+        "start_char": 464,
+        "end_char": 472
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Higgins",
+        "type": "PERSON",
+        "start_char": 529,
+        "end_char": 536
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Ronald Chan",
+        "type": "PERSON",
+        "start_char": 18,
+        "end_char": 29
+      },
+      "node_ancestory": [
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "p"
+    },
+    {
+      "author_entity": {
+        "text": "Coindesk",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "em"
+    },
+    {
+      "author_entity": {
+        "text": "Coindesk",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "em"
+    },
+    {
+      "author_entity": {
+        "text": "Casper",
+        "type": "PERSON",
+        "start_char": 19,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "em"
+    },
+    {
+      "author_entity": {
+        "text": "Ronald Chan",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Ronald Chan",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 27
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Huobi Adding",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 21
+      },
+      "node_ancestory": [
+        "h3",
+        "div",
+        "div",
+        "div",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ],
+  "https://www.linkedin.com/pulse/brief-history-word-embeddings-some-clarifications-magnus-sahlgren/": [
+    {
+      "author_entity": {
+        "text": "Magnus Sahlgren",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "header",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Zellig Harris",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 20
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "John Firth",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Ludwig Wittgenstein",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "BEAGLE",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 13
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Schnabel et al.",
+        "type": "PERSON",
+        "start_char": 7,
+        "end_char": 22
+      },
+      "node_ancestory": [
+        "p",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Spark MLlib",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Gensim",
+        "type": "PERSON",
+        "start_char": 8,
+        "end_char": 14
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "section",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Magnus Sahlgren",
+        "type": "PERSON",
+        "start_char": 9,
+        "end_char": 24
+      },
+      "node_ancestory": [
+        "h3",
+        "section",
+        "div",
+        "div",
+        "article",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "a"
+    },
+    {
+      "author_entity": {
+        "text": "Magnus Sahlgren",
+        "type": "PERSON",
+        "start_char": 16,
+        "end_char": 31
+      },
+      "node_ancestory": [
+        "span",
+        "div",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "h3"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Indonesia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 26
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Bahasa Malaysia",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 25
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Dansk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Deutsch",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Norsk",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 15
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Polski",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Português",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 19
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Română",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Svenska",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 17
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    },
+    {
+      "author_entity": {
+        "text": "Türkçe",
+        "type": "PERSON",
+        "start_char": 10,
+        "end_char": 16
+      },
+      "node_ancestory": [
+        "li",
+        "ul",
+        "div",
+        "li",
+        "ul",
+        "footer",
+        "body",
+        "html",
+        "[document]"
+      ],
+      "node_name": "button"
+    }
+  ]
+}
