@@ -24,9 +24,8 @@ class Validator:
 
     ADF_KEYS_TO_BE_NEGLECTED = ["url", "accessed_date"]
 
-    def __init__(self, labeled_data_file, inputs_file, spider, adf_results_file):
+    def __init__(self, labeled_data_file, spider, adf_results_file):
         self.labelleled_data_file = labeled_data_file
-        self.inputs_file = inputs_file
         self.spider = spider
         self.adf_results_file = adf_results_file
         self.adf_results = None
@@ -137,6 +136,6 @@ class Validator:
 
 
 if __name__ == "__main__":
-    validator = Validator("../resources/url_references.json", "../urls.json", ContentScraper,
+    validator = Validator("../resources/url_references.json", ContentScraper,
                           "../resources/adf_results.json")
     validator.run()

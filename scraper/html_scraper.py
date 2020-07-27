@@ -12,7 +12,6 @@ import datetime
 from urllib.parse import urlparse, urlunparse, urlsplit
 import sys
 from CMS import Format
-import stanza
 from traversal_rule_identifier import TraversalRule
 logging.basicConfig(level=logging.DEBUG)
 
@@ -252,7 +251,7 @@ class HtmlScraper(object):
 
         # Get as much info as possible from metadata
         news_item = self.__get_metadata(soup)
-        # Use stanza to identify people in text, the nodes containing them and branch tags for the leaf nodes
+        # Identify people in text, the nodes containing them and branch tags for the leaf nodes
         tr = TraversalRule(soup, None, None)
         tr.find_candidates()
         candidate_authors = tr.candidates
