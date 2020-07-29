@@ -1,9 +1,3 @@
-# import peewee
-# from peewee import *
-# db = MySQLDatabase('cms_maker')
-#
-# class Article(Model):
-#
 import sys
 sys.path.insert(0, '../')
 from CMS import Format

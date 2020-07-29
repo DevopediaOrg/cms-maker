@@ -63,6 +63,7 @@ class TraversalRule:
 
     def pick_traversal_from_author(self):
         logging.info("Picking the traversal rule given author")
+        #self.find_candidates()
         for candidate in self.candidates:
             candidate_author_name = candidate['author_entity']
             normal_name = self.get_normal_name()
