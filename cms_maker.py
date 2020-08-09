@@ -50,15 +50,25 @@ class FindAuthorWithTraversal:
 class FindAuthor:
     domain_traversal_file = "./resources/domain_traversal_rules-500.json"
     domain_traversal = AuthorTraversalRules(domain_traversal_file)
+    domain_found = False 
 
     def __init__(self, url):
         self.url = url
         extracted = tldextract.extract(url)
         site = extracted.registered_domain
-        self.find_author = FindAuthorWithTraversal(self.url, self.domain_traversal.author_traversal_rules[site])
+        domains = self.domain_traversal.author_traversal_rules.keys()
+        if site not in domains: 
+            pass
+        else:
+          self.domain_found = True 
+          self.find_author = FindAuthorWithTraversal(self.url, self.domain_traversal.author_traversal_rules[site])
 
     def get_author(self):
-        return self.find_author.get_author()
+        if self.domain_found:
+          return self.find_author.get_author()
+        else:
+          print("WARNING: The traversal rules doesn't exist for the domain, please enter another url")
+          return ""
 
 if __name__ == "__main__":
     print(FindAuthor("https://www.linkedin.com/pulse/automating-user-creation-aws-sftp-service-transfer-arjun-dandagi/").get_author())
