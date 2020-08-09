@@ -24,6 +24,11 @@ At Devopedia, we might have customized the format a little bit to suit our purpo
 
 These notes are temporary and likely to be deleted once code is refactored.
 
+- Summary
+  - Extract ground truth: article_sql_to_cms.py
+  - Training: html_scraper.py, pipelines.py
+  - Inference: cms_maker.py
+  - Rules: domain_traversal_rules-500.json
 - pre_process.bat calls article_sql_to_cms.py and clean_references.py:
   - article_sql_to_cms.py
     - read from DB cms_maker, extract references, use regex to get fields
