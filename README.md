@@ -89,3 +89,7 @@ These notes are temporary and likely to be deleted once code is refactored.
     - poor code: can be a lot simpler
   - to_title_references.py:
     - reads references.json and saves into title_references.json {title: url}
+    
+- Notebooks
+  - cms-traversal-rules.py
+    -  Does not work! : Notebook written to wrap the validate.py script to utilize Google Colab infra structure for generating the author traversal rules from gold data
